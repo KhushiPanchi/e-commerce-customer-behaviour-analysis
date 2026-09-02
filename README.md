@@ -47,7 +47,7 @@ Used Excel PivotTables and calculated metrics to analyze:
 -	Column Chart: Total sales as per category
 -	Funnel Chart: Total sales as per sub-category
 
-![E-Commerce Customer Behaviour Dashboard]()
+![E-Commerce Customer Behaviour Dashboard](https://github.com/KhushiPanchi/e-commerce-customer-behaviour-analysis/blob/main/dashboard.png)
 ## Future Enhancements
 -	Power BI Dashboard: Recreate the Dashboard in power bi with more advanced interactive visualizations.
 -	Trend Analysis: Analyze monthly and yearly sales trends to identify seasonality and growth patterns.
